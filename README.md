@@ -4,4 +4,4 @@ RAG-based chatbot using hybrid retrieval + reranking.
 
 ## Run
 
-streamlit run app/main.py
+python -m streamlit run app/main.py
